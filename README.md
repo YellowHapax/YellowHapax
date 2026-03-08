@@ -5,7 +5,7 @@ Independent researcher in cognitive science and philosophy of mind.
 Based in **Edwardsville, Illinois** (St. Louis metro).
 
 I build frameworks for understanding how minds remember, drift, and get engineered —
-and occasionally ship game servers, LSL scripts, and things that probably shouldn't exist.
+and occasionally ship game servers, LSL scripts, and make origami of complex things.
 
 **ORCID:** [0009-0007-6676-4897](https://orcid.org/0009-0007-6676-4897)
 
@@ -45,3 +45,4 @@ All work is archived with the [Software Heritage Foundation](https://www.softwar
 - [`MBD-Framework`](https://github.com/YellowHapax/MBD-Framework) — Core framework, papers, and computational labs
 - [`Endemic-Baseline`](https://github.com/YellowHapax/Endemic-Baseline) — Paper 7
 - [`Suppressive-and-Emergent-Phenomenon`](https://github.com/YellowHapax/Suppressive-and-Emergent-Phenomenon) — Paper 8
+- [`Noetic-Lab`](https://github.com/YellowHapax/Noetic-Lab) - LLM Friendly
