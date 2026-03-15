@@ -11,6 +11,8 @@ and occasionally ship game servers, LSL scripts, and make origami of complex thi
 
 * **[Music Box](https://yellowhapax.github.io/MusicBox/)**
 
+* **[Music Theory](https://yellowhapax.github.io/MusicLessons/)**
+
 * **[Python Tutor](https://yellowhapax.github.io/PythonTutor/)** (bring your own openrouter API)
 
 ---
