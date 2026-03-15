@@ -15,6 +15,10 @@ and occasionally ship game servers, LSL scripts, and make origami of complex thi
 
 * **[Python Tutor](https://yellowhapax.github.io/PythonTutor/)** ( "" )
 
+* **[Bike Sketcher](https://yellowhapax.github.io/BikeTheory/)**
+
+* **[Welding Reference](https://yellowhapax.github.io/Welding/)** 
+
 ---
 
 ## Memory as Baseline Deviation (MBD) Framework
