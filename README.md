@@ -10,6 +10,7 @@ and occasionally ship game servers, LSL scripts, and make origami of complex thi
 **ORCID:** [0009-0007-6676-4897](https://orcid.org/0009-0007-6676-4897)
 
 **[Music Box](https://yellowhapax.github.io/MusicBox/)**
+**[Python Tutor](https://yellowhapax.github.io/PythonTutor/)** (bring your own openrouter API)
 
 ---
 
