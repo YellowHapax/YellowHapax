@@ -21,7 +21,7 @@ and occasionally ship game servers, LSL scripts, and make origami of complex thi
 
 ---
 
-## Memory as Baseline Deviation (MBD) Framework
+## Memory as Baseline Deviation (MBD) Framework **[Live Lab](https://yellowhapax.github.io/MBD-Framework/)**
 
 I am the author of the Memory as Baseline Deviation framework — a unified relational
 account of memory, identity, and cognition grounded in predictive processing.
