@@ -7,6 +7,8 @@ Based in **Edwardsville, Illinois** (St. Louis metro).
 I build frameworks for understanding how minds remember, drift, and get engineered —
 and occasionally ship game servers, LSL scripts, and make origami of complex things.
 
+**[Zenodo Papers](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Everett%2C%20Brandon%22&l=list&p=1&s=10&sort=bestmatch)**
+
 **ORCID:** [0009-0007-6676-4897](https://orcid.org/0009-0007-6676-4897)
 
 * **[Board Game](https://yellowhapax.github.io/BoardGame/)**
